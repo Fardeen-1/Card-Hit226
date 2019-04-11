@@ -84,11 +84,14 @@ body {
   background-color: #211545;
   color: white;
 }
+.linker{
+  padding: 8px;
+}
+
 .linker a:link{
   text-decoration:none;
 
 }
-
 
 .linker a:visited {
   text-decoration: none;
