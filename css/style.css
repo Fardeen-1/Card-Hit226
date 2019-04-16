@@ -1,3 +1,4 @@
+
 p {
   margin: 0.8em 0;
   padding: 0;
@@ -115,13 +116,11 @@ body {
 }
 
 
-//** Links changing colour when hovered */
+/** Links changing colour when hovered */
 .linker a:hover {
   text-decoration: underline;
   color: #990000;
   font-style: italic;
   font-size: 1em;
   width: inherit;
-
-
 }
